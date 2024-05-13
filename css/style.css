@@ -87,3 +87,18 @@ body {
     width: 100%;
     left: 0;
 }
+
+@media screen and (max-width: 600px) {
+    .banner {
+        font-size: 2em;
+    }
+    .text_section {
+        font-size: 1em;
+    }
+    .text-section img{
+        height: 0.8em;
+    }
+    .container img{
+        max-width: 30px;
+    }
+}
