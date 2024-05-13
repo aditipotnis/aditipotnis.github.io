@@ -93,12 +93,12 @@ body {
         font-size: 2em;
     }
     .text_section {
-        font-size: 1em;
+        font-size: 0.8em;
     }
     .text-section img{
-        height: 0.8em;
+        height: 2em;
     }
     .container img{
-        max-width: 30px;
+        max-width: 25px;
     }
 }
